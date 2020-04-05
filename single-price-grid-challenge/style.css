@@ -133,7 +133,7 @@ p {
     color: rgb(231, 231, 231);
 }
 
-/* Add box shadows and hover effect */
+/* Box shadows and hover effect */
 
 .grid-container {
     box-shadow: 0px 2px 5px 0px rgba(138, 138, 138, 0.2), 0 5px 10px 0 rgba(138, 138, 138, 0.2)
